@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **V.E.R.D.I.C.T**
 
-- 🌱 I’m currently learning **Data Beses**
+- 🌱 I’m currently learning **Data Bases**
 
 - 💬 Ask me about **ReGex, Python and DB**
 
 - 📫 How to reach me **zjp500@gmail.com**
 
-- ⚡ Fun fact **I think i am criative**
+- ⚡ Fun fact **I think i am creative**
 
 
 <h3 align="left">Connect with me:</h3>

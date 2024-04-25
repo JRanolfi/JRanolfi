@@ -3,7 +3,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jranolfi&show_icons=true&locale=en&layout=compact" alt="jranolfi" /></p>
 
-- 🔭 I’m currently working on **V.E.R.D.I.C.T**
+- 🔭 I’m currently working on **Hive**
 
 - 🌱 I’m currently learning **Data Bases**
 
